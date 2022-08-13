@@ -1,0 +1,126 @@
+.text {
+   font-family: 'Exo 2', sans-serif;
+   font-size: 52px;
+   position: absolute;
+   left: 100px;
+   top: 190px;
+   width: 610px;
+   height: 119px;
+}
+.rect {
+   position: absolute;
+   width: 832px;
+   height: 820px;
+   left: 882px;
+   top: 0px;
+}
+.adir {
+   position: absolute;
+   width: 735px;
+   height: 605px;
+   left: 790px;
+   top: 109px;
+   border: 0px 0px 0px 10px;
+}
+.gridd {
+   align-items: center;
+   border-radius: 20px;
+   position: absolute;
+   width: 1240px;
+   height: 225px;
+   left: 210px;
+   top: 750px;
+   box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.main__text1 {
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   position: absolute;
+   left: 100px;
+   top: 380px;
+   line-height: 150%;
+   color: #6B6B6C;
+}
+.main__text2 {
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   position: absolute;
+   left: 100px;
+   top: 400px;
+   line-height: 150%;
+   color: #6B6B6C;
+}
+.main__text3 {
+   font-family: 'PT Sans', sans-serif;
+   font-size: 16px;
+   position: absolute;
+   left: 100px;
+   top: 420px;
+   line-height: 150%;
+   color: #6B6B6C;
+}
+a {
+   position: absolute;
+   font-family: 'PT Sans', sans-serif;
+   top: 480px;
+   left: 100px;
+   text-decoration: none;
+   color: #000
+}
+.line1 {
+   position: absolute;
+   top: 500px;
+   left: 100px;
+}
+.ellipse1 {
+   position: absolute;
+   left: 800px;
+   top: 800px;
+}
+.ellipse2 {
+   position: absolute;
+   left: 305px;
+   top: 800px;
+}
+.ellipse3 {
+   position: absolute;
+   left: 1250px;
+   top: 800px;
+}
+.vec1 {
+   position: absolute;
+   left: 327px;
+   top: 815px;
+}
+.vec2 {
+   position: absolute;
+   left: 823px;
+   top: 815px;
+}
+.vec3 {
+   position: absolute;
+   left: 1260px;
+   top: 825px;
+}
+.foott1 {
+   font-family: 'PT Sans', sans-serif;
+   position: absolute;
+   left: 250px;
+   top: 880px;
+   font-size: 15px;
+}
+.foott2 {
+   font-family: 'PT Sans', sans-serif;
+   position: absolute;
+   left: 740px;
+   top: 880px;
+   font-size: 15px;
+}
+.foott3 {
+   font-family: 'PT Sans', sans-serif;
+   position: absolute;
+   left: 1210px;
+   top: 880px;
+   font-size: 15px;
+}
